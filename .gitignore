@@ -1,4 +1,11 @@
-/build
-.externalNativeBuild
-r2-lcp/build
+*.iml
 .gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+gradle-wrapper.jar
+r2-lcp/build
