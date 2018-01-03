@@ -1,3 +1,4 @@
 /build
 .externalNativeBuild
 r2-lcp/build
+.gradle
